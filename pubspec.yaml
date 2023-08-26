@@ -13,10 +13,8 @@ dependencies:
     sdk: flutter
 
   savaser:
-    hosted:
-      name: savaser
-      url: 'https://github.com/igefadele/savaser.git'
-      version: ^0.0.1
+    git:
+      url: https://github.com/igefadele/savaser.git
 
 
 
